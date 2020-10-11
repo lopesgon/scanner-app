@@ -30,6 +30,10 @@ build/
 local.properties
 *.iml
 
+# ios
+ios/Podfile.lock
+ios/scannerapp.xcworkspace
+
 # node.js
 #
 node_modules/
